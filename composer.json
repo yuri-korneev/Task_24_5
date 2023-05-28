@@ -1,0 +1,19 @@
+{
+    "name": "skillfactory/php_mvc",
+    "description": "Task_24_5",
+    "type": "project",
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app\\"
+        }
+    },
+    "authors": [
+        {
+            "name": "korneev-yuri"
+        }
+    ],
+    "minimum-stability": "dev"
+}
